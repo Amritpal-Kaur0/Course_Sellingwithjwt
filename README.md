@@ -11,6 +11,10 @@ You need to use mongodb to store all the data persistently.
 ## Preview
 
 
+
+https://github.com/Amritpal-Kaur0/Course_Sellingwithjwt/assets/128442182/342ae44d-0bc6-4828-a593-700410101eca
+
+
 ## Routes
 ### Admin Routes:
 - POST /admin/signup
